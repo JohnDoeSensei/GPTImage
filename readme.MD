@@ -28,7 +28,7 @@ For help:
 ```
 
 ## Result :
-![Beautiful view from drone on lake!](\images\Beaut-1673053145-0.png "watch out")
+![Beautiful view from drone on lake!](https://github.com/JohnDoeSensei/GPTImage/blob/main/images/Beaut-1673053145-0.png?raw=true)
 
 ## Contributing
 
