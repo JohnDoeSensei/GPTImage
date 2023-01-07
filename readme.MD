@@ -21,6 +21,10 @@ To generate one image of funny meme in 512x512 resolution:
 ```bash
 .\main.py  -n 1 -s 512x512 "Beautiful view from drone on lake"
 ```
+For clean folder images and response:
+```bash
+.\clean.py
+```
 
 For help:
 ```bash
